@@ -1,6 +1,6 @@
 # Binary Search Tree aşamaları
 
-** Input: ** [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+**Input:** [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
 
 ## Aşamalar
 
